@@ -1,0 +1,4 @@
+# CODEOWNERS: require review from @xavier-sky for all files
+# This ensures PRs require a code owner review from the repository owner.
+
+* @xavier-sky
